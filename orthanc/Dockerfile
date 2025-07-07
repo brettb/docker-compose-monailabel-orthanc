@@ -1,4 +1,4 @@
-FROM jodogne/orthanc:1.11.0
+FROM jodogne/orthanc:latest
 
 WORKDIR /root/
 
