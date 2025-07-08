@@ -1,4 +1,5 @@
-FROM jodogne/orthanc:latest
+FROM orthancteam/orthanc:latest-full
+
 
 WORKDIR /root/
 
